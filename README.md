@@ -3,7 +3,7 @@
 상업적으로 쓸 수 있는 한글 무료 글꼴 12종을 CSS 한 줄로 불러오는 저장소입니다. [jsDelivr](https://www.jsdelivr.com/) 글로벌 CDN으로 서비스합니다.
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hoony-majormap/majormap-fonts@v1.0.0/css/suit.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hoony-majormap/majormap-fonts@1.0.0/css/suit.css">
 ```
 
 ```css
