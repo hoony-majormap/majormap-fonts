@@ -1,0 +1,36 @@
+/* NanumSquare Neo | SIL OFL 1.1 (NAVER) | official file, unmodified */
+@font-face {
+  font-family: "NanumSquare Neo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url("../fonts/nanum-square-neo/NanumSquareNeoTTF-aLt.woff2") format("woff2");
+}
+@font-face {
+  font-family: "NanumSquare Neo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../fonts/nanum-square-neo/NanumSquareNeoTTF-bRg.woff2") format("woff2");
+}
+@font-face {
+  font-family: "NanumSquare Neo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("../fonts/nanum-square-neo/NanumSquareNeoTTF-cBd.woff2") format("woff2");
+}
+@font-face {
+  font-family: "NanumSquare Neo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url("../fonts/nanum-square-neo/NanumSquareNeoTTF-dEb.woff2") format("woff2");
+}
+@font-face {
+  font-family: "NanumSquare Neo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url("../fonts/nanum-square-neo/NanumSquareNeoTTF-eHv.woff2") format("woff2");
+}

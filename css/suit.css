@@ -1,0 +1,15 @@
+/* SUIT | SIL OFL 1.1 | official file, unmodified */
+@font-face {
+  font-family: "SUIT Variable";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url("../fonts/suit/SUIT-Variable.woff2") format("woff2");
+}
+@font-face {
+  font-family: "SUIT";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url("../fonts/suit/SUIT-Variable.woff2") format("woff2");
+}

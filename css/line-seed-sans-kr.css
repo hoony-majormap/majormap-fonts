@@ -1,0 +1,22 @@
+/* LINE Seed Sans KR | SIL OFL 1.1 | official file, unmodified */
+@font-face {
+  font-family: "LINE Seed Sans KR";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src: url("../fonts/line-seed-sans-kr/LINESeedKR-Th.woff2") format("woff2");
+}
+@font-face {
+  font-family: "LINE Seed Sans KR";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../fonts/line-seed-sans-kr/LINESeedKR-Rg.woff2") format("woff2");
+}
+@font-face {
+  font-family: "LINE Seed Sans KR";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("../fonts/line-seed-sans-kr/LINESeedKR-Bd.woff2") format("woff2");
+}

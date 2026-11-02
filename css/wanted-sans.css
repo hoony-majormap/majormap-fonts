@@ -1,0 +1,15 @@
+/* Wanted Sans | SIL OFL 1.1 | official file, unmodified */
+@font-face {
+  font-family: "Wanted Sans Variable";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400 1000;
+  src: url("../fonts/wanted-sans/WantedSansVariable.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Wanted Sans";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400 1000;
+  src: url("../fonts/wanted-sans/WantedSansVariable.woff2") format("woff2");
+}

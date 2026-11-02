@@ -1,0 +1,64 @@
+/* Paperlogy | SIL OFL 1.1 | official file, unmodified */
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src: url("../fonts/paperlogy/Paperlogy-1Thin.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url("../fonts/paperlogy/Paperlogy-2ExtraLight.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url("../fonts/paperlogy/Paperlogy-3Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../fonts/paperlogy/Paperlogy-4Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../fonts/paperlogy/Paperlogy-5Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("../fonts/paperlogy/Paperlogy-6SemiBold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("../fonts/paperlogy/Paperlogy-7Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url("../fonts/paperlogy/Paperlogy-8ExtraBold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url("../fonts/paperlogy/Paperlogy-9Black.woff2") format("woff2");
+}
